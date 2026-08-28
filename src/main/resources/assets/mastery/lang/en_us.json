@@ -1,0 +1,13 @@
+{
+  "itemGroup.mastery": "Example Mod Tab",
+  "block.mastery.example_block": "Example Block",
+  "item.mastery.example_item": "Example Item",
+
+  "mastery.configuration.title": "Mastery Configs",
+  "mastery.configuration.section.mastery.common.toml": "Mastery Configs",
+  "mastery.configuration.section.mastery.common.toml.title": "Mastery Configs",
+  "mastery.configuration.items": "Item List",
+  "mastery.configuration.logDirtBlock": "Log Dirt Block",
+  "mastery.configuration.magicNumberIntroduction": "Magic Number Text",
+  "mastery.configuration.magicNumber": "Magic Number"
+}
